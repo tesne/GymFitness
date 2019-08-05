@@ -14,10 +14,9 @@ English:
 
 This is a Wordpress theme, I´ve made as a practice, it have a contact form (use contac form 7 plugin) and also have a map (leafletjs). Here are jus the screen shots, but if you are interested can contactme.
 
-~~~
 
 Index
-(index.jpg)
+![captura](index.jpg)
 
 Index responsibe
 ![captura](index-responsive.jpg)
