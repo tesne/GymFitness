@@ -16,32 +16,48 @@ This is a Wordpress theme, I´ve made as a practice, it have a contact form (use
 
 
 ### Index
+La pagina principal o página de inicio.
+The starting page
 ![captura](index.jpg)
 
 
 ### Index responsibe
+Una  vista en dispositivos moviles.
+A view of the site on mobile devices.
 ![captura](index-responsive.jpg)
 
 
 ### Clases
+La página de clases o servicios.
+The page of services.
 ![captura](clases.jpg)
 
 
 ### Galeria
+Una muestra de la galeria.
+This is how the gallery looks like.
 ![captura](galeria.jpg)
 
 
 ### BLog
+La página del blog.
+Blog page.
 ![captura](blog.png)
 
 
 ### Blog post
+Una entrada del blog.
+A single blog post.
 ![captura](blog-post.png)
 
 
 ### Contacto
+La página de contacto.
+The contact page.
 ![captura](contacto.png)
 
 
 ### Nosotros
+Página acerca de...
+The about us page.
 ![captura](nosotros.png)
