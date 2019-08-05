@@ -3,45 +3,45 @@ A wordpress theme for gym
 
 WordPress Theme: GymFitness
 ==================
-Español:
+## Español:
 
 Un tema de WordPress para gimnasios, es parte de una práctica, tiene formulario de contacto (una contact form 7) y mapa (usa leafletjs).
 
 
 Acá he colocado solo las capturas de pantalla, si te interesa contactame.
 
-English:
+## English:
 
 This is a Wordpress theme, I´ve made as a practice, it have a contact form (use contac form 7 plugin) and also have a map (leafletjs). Here are jus the screen shots, but if you are interested can contactme.
 
 
-Index
+### Index
 ![captura](index.jpg)
 
 
-Index responsibe
+### Index responsibe
 ![captura](index-responsive.jpg)
 
 
-Clases
+### Clases
 ![captura](clases.jpg)
 
 
-Galeria
+### Galeria
 ![captura](galeria.jpg)
 
 
-BLog
+### BLog
 ![captura](blog.png)
 
 
-Blog post
+### Blog post
 ![captura](blog-post.png)
 
 
-Contacto
+### Contacto
 ![captura](contacto.png)
 
 
-Nosotros
+### Nosotros
 ![captura](nosotros.png)
