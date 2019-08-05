@@ -18,23 +18,30 @@ This is a Wordpress theme, I´ve made as a practice, it have a contact form (use
 Index
 ![captura](index.jpg)
 
+
 Index responsibe
 ![captura](index-responsive.jpg)
+
 
 Clases
 ![captura](clases.jpg)
 
+
 Galeria
 ![captura](galeria.jpg)
+
 
 BLog
 ![captura](blog.png)
 
+
 Blog post
 ![captura](blog-post.png)
 
+
 Contacto
 ![captura](contacto.png)
+
 
 Nosotros
 ![captura](nosotros.png)
