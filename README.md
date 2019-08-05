@@ -17,7 +17,7 @@ This is a Wordpress theme, I´ve made as a practice, it have a contact form (use
 ~~~
 
 Index
-![captura](index.jpg)
+(index.jpg)
 
 Index responsibe
 ![captura](index-responsive.jpg)
